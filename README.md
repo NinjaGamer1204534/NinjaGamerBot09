@@ -1,1 +1,1 @@
-# NinjaGamerBot09
+Welcome this is Ninja Gamer the discord bot
